@@ -1,21 +1,4 @@
 {
-  "argonaut": {
-    "dependencies": [
-      "arrays",
-      "control",
-      "either",
-      "foreign-object",
-      "functions",
-      "gen",
-      "maybe",
-      "nonempty",
-      "prelude",
-      "strings",
-      "tailrec"
-    ],
-    "repo": "https://github.com/purescript-contrib/purescript-argonaut.git",
-    "version": "v4.0.1"
-  },
   "web-storage": {
     "dependencies": [
       "web-events",
@@ -326,13 +309,6 @@
       "prelude"
     ],
     "repo": "https://github.com/garyb/purescript-debug.git",
-    "version": "v4.0.0"
-  },
-  "decimals": {
-    "dependencies": [
-      "maybe"
-    ],
-    "repo": "https://github.com/sharkdp/purescript-decimals.git",
     "version": "v4.0.0"
   },
   "distributive": {
@@ -1109,25 +1085,6 @@
     "repo": "https://github.com/purescript/purescript-orders.git",
     "version": "v4.0.0"
   },
-  "pairing": {
-    "dependencies": [
-      "free",
-      "functors",
-      "transformers"
-    ],
-    "repo": "https://github.com/paf31/purescript-pairing.git",
-    "version": "v5.1.0"
-  },
-  "pairs": {
-    "dependencies": [
-      "console",
-      "distributive",
-      "foldable-traversable",
-      "quickcheck"
-    ],
-    "repo": "https://github.com/sharkdp/purescript-pairs.git",
-    "version": "v6.0.0"
-  },
   "parallel": {
     "dependencies": [
       "control",
@@ -1355,7 +1312,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/lumihq/purescript-react-basic.git",
-    "version": "v1.2.0"
+    "version": "v1.1.1"
   },
   "react-dom": {
     "dependencies": [
