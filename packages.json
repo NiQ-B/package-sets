@@ -1,4 +1,18 @@
 {
+  "indexeddb": {
+    "dependencies": [
+      "exceptions",
+      "read",
+      "maybe",
+      "effect",
+      "prelude",
+      "foreign",
+      "nullable",
+      "datetime"
+    ],
+    "repo": "https://github.com/truqu/purescript-indexedDB.git",
+    "version": "v3.0.0"
+  },
   "web-storage": {
     "dependencies": [
       "web-events",
