@@ -13,14 +13,6 @@
     "repo": "https://github.com/truqu/purescript-indexedDB.git",
     "version": "v4.0.0"
   },
-  "web-storage": {
-    "dependencies": [
-      "web-events",
-      "nullable"
-    ],
-    "repo": "https://github.com/purescript-web/purescript-web-storage.git",
-    "version": "v2.0.0"
-  },
   "aff": {
     "dependencies": [
       "datetime",
