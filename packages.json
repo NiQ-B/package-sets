@@ -1,4 +1,11 @@
 {
+  "http": {
+    "dependencies": [
+      "maybe"
+    ],
+    "repo": "https://github.com/joneshf/purescript-http.git",
+    "version": "v4.0.0"
+  },
   "indexeddb": {
     "dependencies": [
       "exceptions",
