@@ -11,7 +11,7 @@
       "datetime"
     ],
     "repo": "https://github.com/truqu/purescript-indexedDB.git",
-    "version": "v3.0.0"
+    "version": "v4.0.0"
   },
   "web-storage": {
     "dependencies": [
